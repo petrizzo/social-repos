@@ -34,3 +34,18 @@ Lista de proyectos en GitHub para el empoderamiento popular, políticas pública
 31. [countdown:](https://github.com/drewrwilson/countdown) Herramienta que ayuda a la creación rápida de sitios web con un contaron de tiempo vinculado a algún tipo de actividad, concentración o evento.
 32. [loomio:](https://github.com/loomio/loomio) Proyecto de software iniciado en Nueva Zelanda para la toma de decisiones de forma colaborativa.
 33. [whereat-macroid:](https://github.com/the-learning-collective/whereat-macroid) Aplicación móvil que ayuda a las comunicaciones entre los participantes de una marcha.
+34. [nolotiro:](https://github.com/alabs/nolotiro) Aplicación web utilizada para facilitar
+intercambios solidarios de cosas en desuso.
+35. [openfoodnetwork:](https://github.com/openfoodfoundation/openfoodnetwork) Aplicación para
+conexión de proveedores, productores y consumidores de productos agrícolas.
+36. [SGPP:](https://github.com/francosoto/SGPP) Proyecto universitario para presupuestos
+participativos en Argentina
+37. [PPPP:](https://github.com/ciudadanointeligente/hackaton-cxc-pppp) Proyectos de presupuestos
+participativos por el pueblo. Aplicación web que permite a los ciudadanos hacer seguimiento de la
+ asignación de recursos económicos para el desarrollo de cada región
+38. [agoras:](https://github.com/yank07/agoras) Plataforma web para votación virtual durante
+asambleas
+39. [everypolitician:](https://github.com/everypolitician) Plataforma con datos sobre cualquier
+politico del mundo
+40. [fixmystreet](https://github.com/mysociety/fixmystreet) Poyecto de MySociety para reporte de
+averías en calles
